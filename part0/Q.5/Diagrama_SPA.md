@@ -1,4 +1,4 @@
-## DIAGRAMA NEW NOTE, Tradional WEB
+## DIAGRAMA NEW NOTE, SPA
 
     browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/new_note
     activate server
